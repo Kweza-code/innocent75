@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
-<h1 align="center">Hi I'm Code-Oz</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="Thomas Loril" /> </p>
+<h1 align="center">Hi I'm Thomas Loril</h1>
 
 <!-- Intro -->
 
