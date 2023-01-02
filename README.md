@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;React+for+life;HTML+CSS;Javascript;Node.js;">
     <h3 align="center">Love Javascript and React, love sharing my knowledges and work for people</h3>
     <h3 align="center">I'm a French 🇫🇷 full-stack web Developer 👨‍💻</h3>
-   <img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6](https://outlane.co/now/new-shot-programmer-animation/)">
+   <img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
 </p>
 
 <!-- Social network -->
