@@ -2,7 +2,7 @@
 <h1 align="center">Hi I'm Thomas Loril </h1>
 
 
-<p style="margin: 40px;" align="center">
+<p style="margin-bottom:30px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;React+for+life;HTML+CSS;JavaScript;Node.js">
     <h3 align="center">I love coding, and sharing my knowledges</h3>
     <h3 align="center">I'm a French 🇫🇷 Full-Stack Web Developer👨‍💻</h3>
@@ -41,7 +41,6 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=innocent75&show_icons=true&locale=en&layout=compact" alt="innocent75" /></p>
