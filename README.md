@@ -5,7 +5,7 @@
 <p style="margin-bottom:30px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;React+for+life;HTML+CSS;JavaScript;Node.js"> 
     <h3 align="center">I'm a French 🇫🇷 Full-Stack Web Developer👨‍💻</h3>
-    <p align="center">Passionate about computer science  since my childhood, I use all the skills I acquired during my professional and school experiences for this passion of coding. I love coding, and sharing my knowledges</p>
+    <p align="center">Passionate about computer science  since my childhood, I use all the skills I acquired during my professional and school experiences for this passion of coding and sharing my knowledges</p>
 </p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
