@@ -3,7 +3,7 @@
 
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;React+for+life;HTML+CSS;JavaScript;Node.js">
     <h3 align="center">I love coding, and sharing my knowledges</h3>
     <h3 align="center">I'm a French 🇫🇷 Full-Stack Web Developer👨‍💻</h3>
 </p>
