@@ -52,9 +52,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://www.linkedin.com/in/loril-thomas-b4a69625a/" alt="trungquandev-linkedin" />
+  https://img.icons8.com/bubbles/100/000000/linkedin.png
+  <a href="https://www.linkedin.com/in/loril-thomas-b4a69625a/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="https://instagram.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
