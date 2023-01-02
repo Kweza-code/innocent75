@@ -60,6 +60,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
 </div>
+<h2 align="center"> My Projets </h2>
 <p align="center">
 <img src="https://github.com/innocent75/innocent75/blob/main/giphyarrow.gif">
 </p>
