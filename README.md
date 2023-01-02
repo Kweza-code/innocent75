@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/innocent75/innocent75/blob/main/giphy.gif)
+[![MasterHead](https://github.com/innocent75/innocent75/blob/main/giphy.gif)]
 <h1 align="center">Hi I'm Thomas Loril </h1>
 
 
