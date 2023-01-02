@@ -4,10 +4,11 @@
 
 <p style="margin-bottom:30px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;React+for+life;HTML+CSS;JavaScript;Node.js"> 
+ <img src="https://github.com/innocent75/innocent75/blob/main/giphy.gif">
     <h3 align="center">I'm a French 🇫🇷 Full-Stack Web Developer👨‍💻</h3>
     <p align="center">Passionate about computer science  since my childhood, I use all the skills I acquired during my professional and school experiences for this passion of coding and sharing my knowledges</p>
     
-<img src="https://github.com/innocent75/innocent75/blob/main/giphy.gif">
+
 
 </p>
 
