@@ -1,6 +1,6 @@
- <div align=center>
-[![MasterHead](https://github.com/innocent75/innocent75/blob/main/giphy.gif)
-    </div>
+ 
+<img align="center" src="https://github.com/innocent75/innocent75/blob/main/giphy.gif">
+
 <h1 align="center">Hi I'm Thomas Loril </h1>
 
 
