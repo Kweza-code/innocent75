@@ -1,5 +1,5 @@
  
-<img align="center" src="https://github.com/innocent75/innocent75/blob/main/giphy.gif">
+<img align="center" witdh="400px" src="https://github.com/innocent75/innocent75/blob/main/giphy.gif">
 
 <h1 align="center">Hi I'm Thomas Loril </h1>
 
